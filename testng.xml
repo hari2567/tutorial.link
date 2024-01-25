@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="Default Suite" parallel="classes" thread-count="7">
+    <test verbose="2" preserve-order="true" name="C:/Users/User/MycucumberProject/pom.xml">
+        <classes>
+            <class name="pages.accountpagetest"></class>
+            <class name="pages.headersectionTest"></class>
+            <class name="pages.homepagetest"></class>
+            <class name="pages.loginpagetest"></class>
+            <class name="pages.moviedetailspage"></class>
+            <class name="pages.popularpagetest"></class>
+            <class name="pages.searchpagetest"></class>
+        </classes>
+                    
+        
+        
+        
+    </test></suite>
